@@ -1,0 +1,1 @@
+docker run --rm -it --network host redis:7.4.2-bookworm redis-benchmark -3 -c 500 -P 10 -q -p 6379
