@@ -12,7 +12,7 @@
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/lilnasy/redis-alternatives-benchmark
+git clone https://github.com/lilnasy/valkey-kvrocks-redis-benchmark
 cd redis-alternatives-benchmark
 ```
 
