@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "benchmark": "node --experimental-strip-types --disable-warning=ExperimentalWarning benchmark.ts"
+  },
+  "dependencies": {
+    "d3-dsv": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/d3-dsv": "^3.0.7",
+    "@types/node": "^22.10.9",
+    "typescript": "^5.7.3"
+  }
+}

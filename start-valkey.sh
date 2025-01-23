@@ -1,1 +1,0 @@
-docker run  --rm --name valkey -p 6379:6379 -it valkey/valkey:8.0.2-bookworm
